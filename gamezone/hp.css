@@ -1,0 +1,95 @@
+body{
+   background-image: linear-gradient( black 60px,rgba(1, 1, 42, 0.58) 900px);
+    height: 1030px; 
+  }
+input{
+ background-color: transparent;
+   font-size:30px ;
+    border-radius: 100px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    width: 358px;
+    flex: 1;
+    border: 0;
+    outline: none;
+    height: 23px;
+ 
+}
+ .php img{
+    height: 40px;
+    width: 40px;
+ border-radius: 30px; 
+ }
+ form{
+background-color: rgba(123, 124, 123, 0.587);
+border-radius: 900px;
+text-align: center; 
+ }
+ .php{
+    border: none ;
+    border-radius: 25px;
+    width: 450px;
+    background-color: rgba(109, 107, 107, 0);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ ::placeholder{
+    position: absolute;
+    top: 5px;
+   text-align: center;
+ }
+.mk{
+    height: 90px;
+    border-radius: 80px;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+ }
+ .ad{
+   position: absolute;
+   left: 130px;
+ }
+ .ar{
+ border: none;
+   height: 90px;
+   width: 90px;
+   border-radius: 90px;
+   position: absolute;
+   left: 20px;
+ }
+ .rr{
+   position: absolute;
+   left: 250px;
+ }
+ .km{
+   position: absolute;
+   left: 0px;
+ }
+ button{
+  border: none ;
+  background-color: black;
+  width: 1px;
+  height: 1px;
+ }
+ .tp {
+  border: none ;
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+ }
+ .pn{
+  position: absolute;
+  left: 370px; 
+  width: 1px;
+  height: 1px;
+ }
+ .btm img{
+  position: absolute;
+  left: 410px;
+  top: 100px;
+ }
+ 
+ 
+ 
